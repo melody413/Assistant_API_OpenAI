@@ -1,0 +1,8 @@
+node_modules/
+.dockerignore
+npm-debug.log
+.git
+build/
+.next/
+.env
+yarn.lock
