@@ -11,7 +11,7 @@ const Message = ({ message }) => {
   const getImage = async (imageId) => {
     const openAIOption = {
       headers: {
-        'Authorization' : 'Bearer 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',
+        'Authorization' : 'Bearer',
       },
       'responseType' : 'arraybuffer'
     };
